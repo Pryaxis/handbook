@@ -35,6 +35,7 @@ Leaders of Pryaxis are the people who run the operation. Every leader is equival
   * Is legal data handler concerning stats data in the UK.
 * @Deathmax (Discord: Deathmax#7906)
 * @Enerdy (Discord: Enerdy#8912)
+  * Has Twitter access.
 * @MarioE (Discord: marioe#7557)
 * @Patrikkk (Discord: Patrikk#4016)
 * @mistzzt (Discord: mist#3706)
