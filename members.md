@@ -56,3 +56,7 @@ Guests in the #high-charity Discord room have the technical capacity to, in the 
 # What if the root users disappear?
 
 If a leader can't reach a root user that's important, then it's imperative that all systems remain online and operational. All roles previously assigned to root only users are now up for grabs by anyone, with the two-man rule in place. We currently have no recovery plan if all three root users are hit by a bus, or if @hakusaro is hit by a bus and literally nobody else has access to ```arc```. We're working on this!
+
+# What if a leader disappears?
+
+If you can't reach someone, bring it up in this repo with an issue or in #high-charity. On a case by case basis, we'll discuss moving them out of the leadership role they sit in temporarily. If they need to take a leave of absence, we can just keep them around with limited permissions until they're a-okay again.
