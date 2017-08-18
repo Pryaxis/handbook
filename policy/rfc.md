@@ -18,3 +18,5 @@ If the RFC discussion or consensus data is happening over GitHub, it should take
 
 An RFC is not official unless it has a clear consensus, discussion, and a synthesized problem and solution. It also has to be in this repo.
 
+The final document is what counts. How you get there is a different story: if there's a consensus and you did it via email, that's a bit arcane but it does work. GitHub is convenient for some but not others, and sometimes the decision is obvious (e.g., everyone was in voice chat and we don't want to make an issue and leave comments just to be pedantic).
+
