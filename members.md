@@ -14,12 +14,13 @@ The people listed as root have been with Pryaxis consistently and reliably for a
 
 All root users have the root role on Discord, which grants "Administrator" rights including permission overrides on all actions.
 
-* @hakusaro (Discord: hakusaro#6463)
+* @hakusaro (Telegram: [@hakusaro](https://t.me/hakusaro))
   * Operates ```arc```, the server that runs TShock's forums, update server, and other micro services attached to TShock.
   * Operates most TShock and Pryaxis related domains.
   * Operates Twitter.
   * Is an owner of @Pryaxis on GitHub.
   * Is the Discord owner for TShock.
+  * Is not available on Discord.
 * @QuiCM (Discord: Cold#7366)
   * Is an owner of @Pryaxis on GitHub.
   * Has Twitter access.
